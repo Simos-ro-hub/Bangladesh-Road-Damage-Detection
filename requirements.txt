@@ -1,0 +1,7 @@
+ultralytics
+gradio>=4.0.0
+folium
+pandas
+pillow
+opencv-python-headless
+numpy

@@ -1,0 +1,9 @@
+venv/
+output/
+best.pt
+*.pt
+*.zip
+*.pth
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
